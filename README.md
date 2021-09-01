@@ -2,9 +2,9 @@
 A logic circuit that controls headlights of a car simulated in [Logisim](http://www.cburch.com/logisim/)
 
 ### Made by:
-1. BHARGAV KISHOR KULKARNI
-2. ANANTH VISHNUBHOTLA  
-3. OMKAR MAHESH GARAD
-4. KUNAL KUSH AVALAKKI
-5. SHIV KIRON GHOSAL
-6. RAHI AJIT JOSHI
+1. [Bhargav Kishor Kulkarni](https://github.com/wags-1314/)
+2. [Ananth Vishnubhotla](https://github.com/AnanthV0509)
+3. [Omkar Mahesh Garad](https://github.com/OMGarad)
+4. [Kunal Kush Avalakki]()
+5. [Shiv Kiron Ghosal]()
+6. [Rahi Ajit Joshi]()
