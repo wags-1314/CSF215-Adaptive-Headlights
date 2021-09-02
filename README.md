@@ -1,6 +1,6 @@
 # CSF215 Final Project: Adaptive Headlights
 A logic circuit that controls headlights of a car simulated in [Logisim](http://www.cburch.com/logisim/)
-
+In addition to controlling the headlights depending on the surronding ambient light, the circuit also automatically dims the headlights when an approacing vehicle is detected to prevent accidents.
 ### Made by:
 1. [Bhargav Kishor Kulkarni](https://github.com/wags-1314/)
 2. [Ananth Vishnubhotla](https://github.com/AnanthV0509)
